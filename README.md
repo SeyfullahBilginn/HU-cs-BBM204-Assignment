@@ -1,4 +1,4 @@
 # HU-cs-BBM204-Assignment
-Project can be run by following commands
-javac Main.java
+Project can be run by following commands \n
+javac Main.java \n
 java Main ../sampleinput.txt
